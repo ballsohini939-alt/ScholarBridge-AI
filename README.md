@@ -5,6 +5,11 @@
 ScholarBridge AI is a React-based student support prototype designed to help students explore scholarship schemes, discover internship portals, compare their profiles with listed criteria, and organize their application journey in one place.
 The project focuses on making opportunity discovery and student planning more organized and accessible.
 
+## 🌐 Live Demo
+
+**Live Website:** https://scholar-bridge-ai-ebon.vercel.app/
+**GitHub Repository:** https://github.com/ballsohini939-alt/ScholarBridge-AI
+
 ## ✨ Features
 
 * **Dashboard:** View an overview of your activities and student journey.
